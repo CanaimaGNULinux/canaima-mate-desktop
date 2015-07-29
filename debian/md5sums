@@ -1,0 +1,8 @@
+3b9a5f16fa642754730086b5532f5e04  usr/bin/mate-about
+8575336db0883a588bdb259726d577b8  usr/bin/mate-gsettings-toggle
+74bffc92f031dd24b975dd460d130efe  usr/share/applications/mate-about.desktop
+50fe10ee670ffc45f91dd197732b4fa2  usr/share/doc/mate-desktop/changelog.Debian.gz
+e505f85f597418bffd393fe960e7a4a4  usr/share/doc/mate-desktop/changelog.gz
+381bb456235ce005480a754da7f8ab3b  usr/share/doc/mate-desktop/copyright
+ddb5af90009b85b451d74f772b28bdea  usr/share/man/man1/mate-about.1.gz
+1e5c0f65c4b8a8711266eaf9649a408e  usr/share/man/man1/mate-gsettings-toggle.1.gz

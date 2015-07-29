@@ -1,2 +1,4 @@
 # canaima-mate-desktop
-escritorio mate para canaima
+Escritorio mate para Canaima
+
+Empaquetado por: Jeidi Brito <jeidi.brito@gmail.com>
